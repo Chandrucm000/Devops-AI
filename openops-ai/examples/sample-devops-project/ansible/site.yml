@@ -1,0 +1,9 @@
+---
+- name: Configure demo hosts
+  hosts: demo
+  become: true
+  tasks:
+    - name: Install curl
+      ansible.builtin.package:
+        name: curl
+        state: present

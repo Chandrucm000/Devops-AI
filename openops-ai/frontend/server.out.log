@@ -1,0 +1,16 @@
+▲ Next.js 16.2.10 (Turbopack)
+- Local:         http://127.0.0.1:3000
+- Network:       http://127.0.0.1:3000
+✓ Ready in 612ms
+Attention: Next.js now collects completely anonymous telemetry regarding usage.
+This information is used to shape Next.js' roadmap and prioritize features.
+You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+https://nextjs.org/telemetry
+
+Creating turbopack project {
+  dir: 'C:\\Users\\Dhiyaan\\Devops-AI\\Devops-AI\\openops-ai\\frontend',
+  testMode: true
+}
+
+ GET / 200 in 1484ms (next.js: 1285ms, application-code: 199ms)
+ GET / 200 in 37ms (next.js: 4ms, application-code: 33ms)
