@@ -4,3 +4,4 @@ __pycache__/
 node_modules/
 server.out.log
 server.err.log
+openops-ai/uploads/
